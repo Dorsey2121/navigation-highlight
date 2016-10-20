@@ -50,6 +50,9 @@ nav a {
   padding: .2em;
 }
 
+p {
+  color: #2f2d13;
+}
 .nav .current {
   background-color: #b20953;
 }
@@ -67,10 +70,3 @@ footer {
   background-color: #ffe500;
   padding: .4em;
 }
-
-
-
-
-
-
-.current
